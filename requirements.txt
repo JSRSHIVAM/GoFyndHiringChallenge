@@ -3,3 +3,4 @@ django_filters
 djangorestframework
 markdown
 django-filter
+whitenoise
