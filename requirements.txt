@@ -4,3 +4,5 @@ djangorestframework
 markdown
 django-filter
 whitenoise
+python-decouple
+dj-database-url
