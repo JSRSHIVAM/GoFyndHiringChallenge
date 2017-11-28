@@ -5,17 +5,6 @@ Deployed at https://testappone353.herokuapp.com/imdb/
 
 Challenge:
 
-
-Web
-more
-'David'
-Backend Interview Task
-Inbox
-D
-David Anthnoy
-to me, Kushan, Kavish, +2
-3 days agoDetails
-Hi Shivam,
 Here is a task we would like you to do -
 
 Create a RESTful API to search for movies(something similar to IMDB). For this we would like you to use:
