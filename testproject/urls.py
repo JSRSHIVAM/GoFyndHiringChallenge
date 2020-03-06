@@ -48,7 +48,8 @@ router.register(r'imdb', ImdbViewSet)
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-     url(r'^', include(router.urls)),
-     url(r'^imdb/', include('dummyone.urls', namespace='imdb', app_name='imdb')),
+     url(r'^rest/', include(router.urls)),
+     #url(r'', include(dummyone.urls)),
+     url(r'', include('dummyone.urls')),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]
